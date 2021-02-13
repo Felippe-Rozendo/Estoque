@@ -1,0 +1,20 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.red{
+ color: rgb(227, 94,107);
+}
+
+.v-middle{
+    vertical-align: middle;
+}
+
+.msg-sucess{
+    background-color: #31ba0f;
+    color:#FFF;
+}
+
+.msg-error{
+    background-color: #f50000;
+    color:#FFF;
+}

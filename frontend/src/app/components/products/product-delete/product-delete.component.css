@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin: 15px 15px 0px 0px;
+}
+
+.b1{
+    color: #FFF;
+    background-color: #f50000;
+}
